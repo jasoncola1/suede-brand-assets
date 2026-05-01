@@ -198,9 +198,18 @@ Priority order:
 
 | Document | Purpose |
 |---|---|
-| `SUEDE_TOKEN_PUBLIC_README.md` | Token source-of-truth |
-| `SUEDE_X402_ACP_PUBLIC_README.md` | Public endpoint reference |
-| `SUEDE_PUBLIC_GITHUB_INDEX.md` | Public repo map |
+| [suede-token](https://github.com/jasoncola1/suede-token) | Token source-of-truth |
+| [suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp) | Public endpoint reference |
+| [suede-docs](https://github.com/jasoncola1/suede-docs) | Public repo map and docs |
+
+## Public Suede Repositories
+
+| Repository | Purpose |
+|---|---|
+| [suede-token](https://github.com/jasoncola1/suede-token) | Token, contracts, supply, and ecosystem reference |
+| [suede-x402-acp](https://github.com/jasoncola1/suede-x402-acp) | x402 payment and ACP-ready endpoint reference |
+| [suede-brand-assets](https://github.com/jasoncola1/suede-brand-assets) | Logos, colors, listing copy, and brand assets |
+| [suede-docs](https://github.com/jasoncola1/suede-docs) | Programmable IP, creator ownership, provenance, licensing, and agent commerce docs |
 
 ## Verification
 
